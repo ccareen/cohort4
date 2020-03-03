@@ -1,0 +1,7 @@
+70b3e2642e567b4ce0308fad267af42b
+"use strict";
+
+test('just playing--------------', () => {
+  console.log("We are here yes...");
+});
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBsYXkudGVzdC5qcyJdLCJuYW1lcyI6WyJ0ZXN0IiwiY29uc29sZSIsImxvZyJdLCJtYXBwaW5ncyI6Ijs7QUFDQUEsSUFBSSxDQUFDLDRCQUFELEVBQStCLE1BQU07QUFDckNDLEVBQUFBLE9BQU8sQ0FBQ0MsR0FBUixDQUFZLG9CQUFaO0FBQ0gsQ0FGRyxDQUFKIiwic291cmNlc0NvbnRlbnQiOlsiXG50ZXN0KCdqdXN0IHBsYXlpbmctLS0tLS0tLS0tLS0tLScsICgpID0+IHtcbiAgICBjb25zb2xlLmxvZyhcIldlIGFyZSBoZXJlIHllcy4uLlwiKTtcbn0pO1xuIl19

@@ -1,0 +1,16 @@
+6f21da40d1c3cb9869651443e0c00451
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+const syntax = {
+  checkNum: num => {
+    num++;
+    return num;
+  }
+};
+var _default = syntax;
+exports.default = _default;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN5bnRheC5qcyJdLCJuYW1lcyI6WyJzeW50YXgiLCJjaGVja051bSIsIm51bSJdLCJtYXBwaW5ncyI6Ijs7Ozs7O0FBQUEsTUFBTUEsTUFBTSxHQUFHO0FBRWRDLEVBQUFBLFFBQVEsRUFBR0MsR0FBRCxJQUFTO0FBQ2xCQSxJQUFBQSxHQUFHO0FBQ0gsV0FBT0EsR0FBUDtBQUNBO0FBTGEsQ0FBZjtlQVFlRixNIiwic291cmNlc0NvbnRlbnQiOlsiY29uc3Qgc3ludGF4ID0ge1xuXHRcblx0Y2hlY2tOdW06IChudW0pID0+IHtcblx0XHRudW0rKztcblx0XHRyZXR1cm4gbnVtO1xuXHR9LFxufTtcblxuZXhwb3J0IGRlZmF1bHQgc3ludGF4O1xuIl19

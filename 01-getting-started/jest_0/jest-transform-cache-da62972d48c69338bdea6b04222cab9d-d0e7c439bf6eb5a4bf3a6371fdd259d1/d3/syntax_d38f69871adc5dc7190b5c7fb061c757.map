@@ -1,0 +1,1 @@
+{"version":3,"sources":["syntax.js"],"names":["syntax","checkNum","num"],"mappings":";;;;;;AAAA,MAAMA,MAAM,GAAG;AAEdC,EAAAA,QAAQ,EAAGC,GAAD,IAAS;AAClBA,IAAAA,GAAG;AACH,WAAOA,GAAP;AACA;AALa,CAAf;eAQeF,M","sourcesContent":["const syntax = {\n\t\n\tcheckNum: (num) => {\n\t\tnum++;\n\t\treturn num;\n\t},\n};\n\nexport default syntax;\n"]}
